@@ -1,1 +1,23 @@
-
+{
+  "empresa": "Nexbrig",
+  "actualizado": "2026-11-23",
+  "extintores": [
+    {
+      "id": "EXT-001",
+      "nombre": "",
+      "tipo": "PQS ABC",
+      "capacidad": "",
+      "marca": "Manuel ejemplo",
+      "serie": "",
+      "ubicacion": "sala de control",
+      "responsable": "",
+      "fabricacion": "2026-11-21",
+      "recarga": "2026-11-20",
+      "vencimiento": "2026-11-25",
+      "horaVenc": "13:51",
+      "notas": "usar con cuidado",
+      "actualizado": "2026-11-23",
+      "mapa": ""
+    }
+  ]
+}
