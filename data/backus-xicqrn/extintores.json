@@ -8,7 +8,7 @@
       "capacidad": "8kg",
       "marca": "manuelito",
       "serie": "54234532",
-      "ubicacion": "torre de control",
+      "ubicacion": "Esquina cerca de la reserva de harina",
       "responsable": "Manuel",
       "fabricacion": "2026-11-14",
       "recarga": "2026-11-07",
@@ -16,7 +16,9 @@
       "horaVenc": "",
       "notas": "Manipulación cuidadosa",
       "actualizado": "2026-11-24",
-      "mapa": ""
+      "mapa": "mapas/backusejemplo.svg",
+      "mapaX": 75.1,
+      "mapaY": 68.4
     },
     {
       "id": "EXT-002",
@@ -25,7 +27,7 @@
       "capacidad": "8kg",
       "marca": "manuelito",
       "serie": "54234532",
-      "ubicacion": "torre de control",
+      "ubicacion": "Al lado de la puerta",
       "responsable": "Manuel",
       "fabricacion": "2026-11-14",
       "recarga": "2026-11-07",
@@ -33,7 +35,9 @@
       "horaVenc": "",
       "notas": "Manipulación cuidadosa",
       "actualizado": "2026-11-24",
-      "mapa": ""
+      "mapa": "mapas/backusejemplo.svg",
+      "mapaX": 29,
+      "mapaY": 31.2
     }
   ]
 }
