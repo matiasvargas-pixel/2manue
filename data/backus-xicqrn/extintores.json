@@ -38,6 +38,44 @@
       "mapa": "mapas/backusejemplo.svg",
       "mapaX": 29,
       "mapaY": 31.2
+    },
+    {
+      "id": "EXT-003",
+      "nombre": "Extintor de emergencia",
+      "tipo": "PQS ABC",
+      "capacidad": "8kg",
+      "marca": "manuelito",
+      "serie": "54234532",
+      "ubicacion": "Esquina cerca de la reserva de harina",
+      "responsable": "Manuel",
+      "fabricacion": "2026-11-14",
+      "recarga": "2026-11-07",
+      "vencimiento": "2027-02-25",
+      "horaVenc": "",
+      "notas": "Manipulación cuidadosa",
+      "actualizado": "2026-11-24",
+      "mapa": "mapas/backusejemplo.svg",
+      "mapaX": 57.7,
+      "mapaY": 59
+    },
+    {
+      "id": "EXT-004",
+      "nombre": "Extintor de emergencia",
+      "tipo": "PQS ABC",
+      "capacidad": "8kg",
+      "marca": "manuelito",
+      "serie": "54234532",
+      "ubicacion": "Esquina cerca de la reserva de harina",
+      "responsable": "Manuel",
+      "fabricacion": "2026-11-14",
+      "recarga": "2026-11-07",
+      "vencimiento": "2027-02-25",
+      "horaVenc": "",
+      "notas": "Manipulación cuidadosa",
+      "actualizado": "2026-11-24",
+      "mapa": "mapas/backusejemplo.svg",
+      "mapaX": 26.5,
+      "mapaY": 68.3
     }
   ]
 }
