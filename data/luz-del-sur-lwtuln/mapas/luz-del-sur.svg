@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="luz del sur.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.69753788"
+     inkscape:cx="397.11105"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective7" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#837515;stroke-width:0.264583"
+       id="rect1"
+       width="191.55173"
+       height="216.96552"
+       x="8.3448277"
+       y="38.310341" />
+    <ellipse
+       style="fill:#ffffff;stroke:#837515;stroke-width:0.264583"
+       id="path1"
+       cx="53.103447"
+       cy="229.48276"
+       rx="17.827585"
+       ry="17.448277" />
+    <ellipse
+       style="fill:#ffffff;stroke:#837515;stroke-width:0.264583"
+       id="path2"
+       cx="117.96552"
+       cy="231.56897"
+       rx="17.068966"
+       ry="17.258619" />
+    <ellipse
+       style="fill:#ffffff;stroke:#837515;stroke-width:0.264583"
+       id="path4"
+       cx="167.0862"
+       cy="230.6207"
+       rx="16.120689"
+       ry="17.068966" />
+    <rect
+       style="fill:#ffffff;stroke:#837515;stroke-width:0.264583"
+       id="rect4"
+       width="86.862068"
+       height="3.0344827"
+       x="67.137932"
+       y="38.310341" />
+    <rect
+       style="fill:#ffffff;stroke:#837515;stroke-width:0.264583"
+       id="rect5"
+       width="3.0344827"
+       height="32.620686"
+       x="8.7241383"
+       y="88" />
+    <rect
+       style="fill:#ffffff;stroke:#837515;stroke-width:0.264583"
+       id="rect6"
+       width="2.6551723"
+       height="35.275864"
+       x="9.1034479"
+       y="161.20689" />
+    <rect
+       style="fill:#ffffff;stroke:#837515;stroke-width:0.264583"
+       id="rect7"
+       width="2.6551723"
+       height="37.551723"
+       x="196.48276"
+       y="81.55172" />
+    <rect
+       style="fill:#ffffff;stroke:#837515;stroke-width:0.264583"
+       id="rect12"
+       width="41.724136"
+       height="42.482758"
+       x="29.206896"
+       y="70.551727" />
+    <rect
+       style="fill:#ffffff;stroke:#837515;stroke-width:0.264583"
+       id="rect13"
+       width="41.344826"
+       height="42.482758"
+       x="136.55173"
+       y="70.551727" />
+    <rect
+       style="fill:#ffffff;stroke:#837515;stroke-width:0.264583"
+       id="rect14"
+       width="40.586205"
+       height="42.482758"
+       x="31.862068"
+       y="150.96552" />
+    <rect
+       style="fill:#ffffff;stroke:#837515;stroke-width:0.264583"
+       id="rect15"
+       width="46.65517"
+       height="45.517239"
+       x="133.51724"
+       y="148.68965" />
+  </g>
+</svg>

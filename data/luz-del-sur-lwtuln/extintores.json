@@ -1,0 +1,62 @@
+{
+  "actualizado": "2026-11-24",
+  "extintores": [
+    {
+      "id": "EXT-001",
+      "nombre": "Extintor grande",
+      "tipo": "PQS ABC",
+      "capacidad": "9kg",
+      "marca": "loco manu",
+      "serie": "02342321",
+      "ubicacion": "jeje",
+      "responsable": "manuel",
+      "fabricacion": "2026-11-27",
+      "recarga": "2026-11-20",
+      "vencimiento": "2026-11-20",
+      "horaVenc": "",
+      "notas": "Usar con cuidado",
+      "actualizado": "2026-11-24",
+      "mapa": "mapas/luz-del-sur.svg",
+      "mapaX": 6,
+      "mapaY": 27.7
+    },
+    {
+      "id": "EXT-002",
+      "nombre": "usar en ambientes",
+      "tipo": "PQS ABC",
+      "capacidad": "9kg",
+      "marca": "jeijei",
+      "serie": "45365463",
+      "ubicacion": "",
+      "responsable": "manu",
+      "fabricacion": "2026-11-14",
+      "recarga": "2026-11-25",
+      "vencimiento": "2026-12-11",
+      "horaVenc": "",
+      "notas": "",
+      "actualizado": "2026-11-24",
+      "mapa": "mapas/luz-del-sur.svg",
+      "mapaX": 66.7,
+      "mapaY": 24.9
+    },
+    {
+      "id": "EXT-003",
+      "nombre": "Extintor peruanito",
+      "tipo": "PQS ABC",
+      "capacidad": "",
+      "marca": "PERU",
+      "serie": "",
+      "ubicacion": "",
+      "responsable": "",
+      "fabricacion": "2026-11-06",
+      "recarga": "2026-11-18",
+      "vencimiento": "2026-11-26",
+      "horaVenc": "",
+      "notas": "",
+      "actualizado": "2026-11-24",
+      "mapa": "mapas/luz-del-sur.svg",
+      "mapaX": 47.6,
+      "mapaY": 75.7
+    }
+  ]
+}
