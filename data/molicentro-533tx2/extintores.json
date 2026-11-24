@@ -16,7 +16,9 @@
       "horaVenc": "",
       "notas": "Manipulación cuidadosa",
       "actualizado": "2026-11-24",
-      "mapa": ""
+      "mapa": "mapas/luz-del-sur.svg",
+      "mapaX": 6,
+      "mapaY": 26.5
     },
     {
       "id": "EXT-002",
@@ -33,7 +35,9 @@
       "horaVenc": "",
       "notas": "Manipulación cuidadosa",
       "actualizado": "2026-11-24",
-      "mapa": ""
+      "mapa": "mapas/luz-del-sur.svg",
+      "mapaX": 92.9,
+      "mapaY": 25.8
     },
     {
       "id": "EXT-010",
@@ -50,7 +54,9 @@
       "horaVenc": "",
       "notas": "Manipulación cuidadosa",
       "actualizado": "2026-11-24",
-      "mapa": ""
+      "mapa": "mapas/luz-del-sur.svg",
+      "mapaX": 40.5,
+      "mapaY": 84
     }
   ]
 }
