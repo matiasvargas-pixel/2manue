@@ -1,0 +1,39 @@
+{
+  "actualizado": "2026-11-24",
+  "extintores": [
+    {
+      "id": "EXT-001",
+      "nombre": "Extintor de emergencia",
+      "tipo": "PQS ABC",
+      "capacidad": "8kg",
+      "marca": "manuelito",
+      "serie": "54234532",
+      "ubicacion": "torre de control",
+      "responsable": "Manuel",
+      "fabricacion": "2026-11-14",
+      "recarga": "2026-11-07",
+      "vencimiento": "2027-02-25",
+      "horaVenc": "",
+      "notas": "Manipulación cuidadosa",
+      "actualizado": "2026-11-24",
+      "mapa": ""
+    },
+    {
+      "id": "EXT-002",
+      "nombre": "Extintor de emergencia",
+      "tipo": "PQS ABC",
+      "capacidad": "8kg",
+      "marca": "manuelito",
+      "serie": "54234532",
+      "ubicacion": "torre de control",
+      "responsable": "Manuel",
+      "fabricacion": "2026-11-14",
+      "recarga": "2026-11-07",
+      "vencimiento": "2026-11-24",
+      "horaVenc": "",
+      "notas": "Manipulación cuidadosa",
+      "actualizado": "2026-11-24",
+      "mapa": ""
+    }
+  ]
+}
