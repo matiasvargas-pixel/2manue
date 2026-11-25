@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="Segundo piso San Jorge.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.69753788"
+     inkscape:cx="397.11105"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#837515;stroke-width:0.264583;fill-opacity:1"
+       id="rect1"
+       width="200.27585"
+       height="228.72414"
+       x="4.551724"
+       y="33.758621" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#837515;stroke-width:0.264583"
+       id="rect2"
+       width="58.034481"
+       height="36.413792"
+       x="11.758621"
+       y="63.34483" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#837515;stroke-width:0.264583"
+       id="rect3"
+       width="49.689655"
+       height="33.379311"
+       x="146.03448"
+       y="64.482758" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#837515;stroke-width:0.264583"
+       id="rect4"
+       width="52.344826"
+       height="31.482758"
+       x="15.551724"
+       y="137.31035" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#837515;stroke-width:0.264583"
+       id="rect5"
+       width="54.999996"
+       height="34.896553"
+       x="142.99998"
+       y="133.89655" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#837515;stroke-width:0.264583"
+       id="rect6"
+       width="50.827587"
+       height="28.448275"
+       x="15.551724"
+       y="210.89656" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#837515;stroke-width:0.264583"
+       id="rect7"
+       width="55.758621"
+       height="33"
+       x="140.34482"
+       y="207.86206" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#837515;stroke-width:0.264583"
+       id="path7"
+       cx="109.81034"
+       cy="109.24138"
+       rx="11.568965"
+       ry="11.758621" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#837515;stroke-width:0.264583"
+       id="path8"
+       cx="108.67241"
+       cy="200.4655"
+       rx="11.568965"
+       ry="12.327586" />
+  </g>
+</svg>

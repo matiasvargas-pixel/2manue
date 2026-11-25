@@ -1,0 +1,9 @@
+{
+  "id": "san-jorge-96atme",
+  "nombre": "San Jorge",
+  "logo": "",
+  "mapas": [
+    "mapas/primer-piso-san-jorge.svg",
+    "mapas/segundo-piso-san-jorge.svg"
+  ]
+}
