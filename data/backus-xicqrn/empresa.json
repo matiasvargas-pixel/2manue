@@ -1,9 +1,9 @@
 {
   "id": "backus-xicqrn",
   "nombre": "Backus",
-  "logo": "",
+  "logo": "https://www.backus.pe/sites/g/files/seuoyk181/files/footer/backus-black.png",
   "mapas": [
-    "mapas/backusejemplo.svg",
-    "mapas/backus-segunda-piso.svg"
+    "mapas/backus-segunda-piso.svg",
+    "mapas/backusejemplo.svg"
   ]
 }
