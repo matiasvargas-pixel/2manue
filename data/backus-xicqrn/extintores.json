@@ -54,9 +54,9 @@
       "horaVenc": "",
       "notas": "Manipulación cuidadosa",
       "actualizado": "2026-11-24",
-      "mapa": "mapas/backusejemplo.svg",
-      "mapaX": 57.7,
-      "mapaY": 59
+      "mapa": "mapas/backus-segunda-piso.svg",
+      "mapaX": 10.3,
+      "mapaY": 33.9
     },
     {
       "id": "EXT-004",
@@ -73,9 +73,9 @@
       "horaVenc": "",
       "notas": "Manipulación cuidadosa",
       "actualizado": "2026-11-24",
-      "mapa": "mapas/backusejemplo.svg",
-      "mapaX": 26.5,
-      "mapaY": 68.3
+      "mapa": "mapas/backus-segunda-piso.svg",
+      "mapaX": 10.5,
+      "mapaY": 73.1
     }
   ]
 }

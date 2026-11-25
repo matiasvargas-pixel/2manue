@@ -1,5 +1,9 @@
 {
   "id": "backus-xicqrn",
   "nombre": "Backus",
-  "logo": ""
+  "logo": "",
+  "mapas": [
+    "mapas/backusejemplo.svg",
+    "mapas/backus-segunda-piso.svg"
+  ]
 }
